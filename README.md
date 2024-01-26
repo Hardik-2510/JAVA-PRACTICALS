@@ -2,7 +2,7 @@
 
 -🎓 Student At Uka Tarsadia Univerty
 
--👨‍💻 In This File You Can See ALL JAVA Project 
+-👨‍💻 In This File You Can See ALL JAVA Practicals
 
 -😍 For SEM - 2 
 
