@@ -11,12 +11,14 @@ public class practical5 {
           int a = sc.nextInt();
           System.out.print("Enter A Number - 2 :- ");
           int b = sc.nextInt();
+          
+          System.out.println("Before Swapping , \n Number-1 = " + a + " , Number-2 = " + b);
 
           int temp = a ;
           a = b ;
           b = temp;
 
-          System.out.println("Number-1 = " + a + " , Number-2 = " + b);
+          System.out.println("After Swapping , \n Number-1 = " + a + " , Number-2 = " + b);
 
           sc.close();
      }
